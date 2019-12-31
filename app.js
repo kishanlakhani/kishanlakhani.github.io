@@ -29,7 +29,7 @@ let countryList = [
     {'Nepal, Kathmandu': ['u',0,15]},
     {'North Korea, Pyongyang': ['u',3,30]},
     {'Oman, Muscat': ['d',1,30]},
-    {'Pakistan, Islamabadl': ['d',0,30]},
+    {'Pakistan, Islamabad': ['d',0,30]},
     {'Philippines, Manila': ['u',2,30]},
     {'Qatar, Doha': ['d',2,30]},
     {'Saudi Arabia, Riyadh': ['d',2,30]},
